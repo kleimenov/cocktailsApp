@@ -42,6 +42,11 @@ const users = {
       email: "userTwo@example.com",
       password: "6q8uu666er90",
     },
+    "userZero": {
+      id: "userZero",
+      email: "userZero@example.com",
+      password: "11",
+    }
   }
 
 
